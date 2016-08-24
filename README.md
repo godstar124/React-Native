@@ -106,5 +106,3 @@ I barely create the application. I just created the front end shell and done som
  - [Moment JS](http://momentjs.com/)
  - [Lodash](https://lodash.com/)
  
-
-Made with ♥ by [Provash Shoumma](https://twitter.com/pshoumma)
