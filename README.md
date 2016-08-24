@@ -3,7 +3,7 @@
 
 #### A social app with Universal Timeline where you can share your thoughts to everyone. No friendship needed!!! 
 
-Download the APK : [Installable APK](https://github.com/shoumma/Mister-Poster/raw/master/apk-releases/mister-poster.apk)
+Download the APK : [Installable APK](https://github.com/godstar124/React-Native/tree/master/apk-releases/mister-poster.apk)
 
 ![Preview](./visual_designs/show.png)
 
@@ -87,7 +87,7 @@ Now, you have your own copy of this application!
 
 
 ##License
-[MIT License](https://github.com/shoumma/Mister-Poster/blob/master/LICENSE). Do whatever you want to do.
+[MIT License](https://github.com/godstar124/React-Native/blob/master/LICENSE). Do whatever you want to do.
 
 
 ## Credits
